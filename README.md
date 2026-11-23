@@ -5,5 +5,3 @@
 # tiny-stack-vm
 
 Built for make.fun's [Build a tiny stack virtual machine, 22 November 2026](https://make.fun/bounty/tiny-stack-vm-01-run-20261122) bounty.
-
-Correct, compact interpreter for make.fun's tiny stack ISA (Node 22, no dependencies). Run: `node main.ts` (reads `/input/<id>/`, writes `/output/<id>/`).
